@@ -30,7 +30,7 @@ Adding this to our known plaintext and repeating everything allows us to repeat 
 thei out over thd fseaking qhone$ but alro iere.\x02\x08ere is your fl`g:\x01OOO{turos out tiat ml csyppo is a re`mly bad idea}.*\n<p?By 
 ```
 
-Where we guess the flag:
+From which we guess the flag:
 
 ```
 OOO{turns out that ml crypto is a really bad idea}
